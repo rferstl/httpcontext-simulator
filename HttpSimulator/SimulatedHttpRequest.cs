@@ -10,7 +10,7 @@ using System.Web.Hosting;
 namespace Http.TestLibrary
 {
     /// <summary>
-    /// Used to simulate an HttpRequest.
+    /// Used to simulate an HttpRequest. 
     /// </summary>
     public class SimulatedHttpRequest : SimpleWorkerRequest
     {
